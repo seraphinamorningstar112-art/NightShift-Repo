@@ -5,7 +5,7 @@
     "Punchline": "Something to help Asteri with numbers",
     "Description": "A venue management plugin for staff, roles, VIPs, sales, payouts, 50/50, macros, and more.",
     "InternalName": "NightShift",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://github.com/seraphinamorningstar112-art/NightShift-Repo/releases/download/v0.0.0.1/latest.zip",
