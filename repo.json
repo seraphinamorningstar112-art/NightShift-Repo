@@ -4,6 +4,7 @@
     "Name": "NightShift",
     "Punchline": "Something to help Asteri with numbers",
     "Description": "A venue management plugin for staff, roles, VIPs, sales, payouts, 50/50, macros, and more.",
+    "IconUrl": "https://raw.githubusercontent.com/seraphinamorningstar112-art/NightShift-Repo/main/NightShiftLogo_128.png",
     "InternalName": "NightShift",
     "AssemblyVersion": "0.0.0.3",
     "ApplicableVersion": "any",
